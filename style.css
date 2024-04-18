@@ -1,0 +1,13 @@
+div::before{
+    content : attr(id);
+}
+.tile{
+    position:absolute;
+    background-color:#fff;
+    border:solid 1px #000;
+    text-align:center;
+    
+}
+main{
+    /* transform: rotateX(60deg) rotateY(0deg) rotateZ(-45deg); */
+}
